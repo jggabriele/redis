@@ -1,0 +1,4 @@
+org\javier\redis\configuration\RedisPocApplication.class
+org\javier\redis\configuration\SwaggerConfiguration.class
+org\javier\redis\configuration\SpringConfig.class
+org\javier\redis\controllers\RedisPOCController.class
